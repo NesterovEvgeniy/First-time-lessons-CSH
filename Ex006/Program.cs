@@ -53,4 +53,4 @@ if (k1==k2)
 
         Console.WriteLine($"Точка пересечения прямых x={Math.Round(x, 2)} y={Math.Round(y, 2)}");
     }
-
+Console.WriteLine();
